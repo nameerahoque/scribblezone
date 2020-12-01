@@ -1,0 +1,65 @@
+/*DEVELOPER: Nameera Hoque, IS117-001, Fall 2020*/
+
+@media only screen and (max-width: 767px){h1{ font-size:75%};
+    h2 {font-size:75%;}}
+
+body {font-family: Arial;}
+
+header {padding:1em;}
+
+main {padding:1.5em;
+padding-bottom:50px;;}
+
+form {padding:1.5em;}
+
+article {padding:2em;}
+
+a {color:#b7b7b7;}
+a:hover {color:#b7b7b7;
+    text-decoration: none;}
+
+h1 {font-family:'Oswald';
+    color:#b7b7b7;
+    font-size:60px;}
+
+h2 {font-family:'Oswald';
+    font-size:30px;
+    color:#a2a2a2;}
+
+h3 {font-family:'Oswald';
+    font-size:20px;}
+
+textarea {width:40%;
+    height:11em;}
+
+footer {background-color: #e2e2e2ff;
+    text-align: center;
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+padding-top:10px;}
+
+canvas {border:black 1px solid;
+width:30%;
+padding:1.5em;}
+
+scrib {padding:1.5em;
+padding-bottom:50px;;}
+
+.carousel slide {align-content:center;
+height: 50px;}
+
+.carousel-control-prev-icon {background-color:grey;}
+.carousel-control-next-icon {background-color:grey;}
+
+
+.carouselExampleIndicators
+.carousel-indicators {background-color:black;}
+.active
+.carousel-inner
+.carousel-item
+.carousel-control-prev
+.carousel-control-prev-icon
+.carousel-control-next-icon
+.sr-only
