@@ -10,6 +10,7 @@ function position(z) {
 }
 
 function draw(z) {
+if (z.buttons !== 1) return;
 var color = document.getElementById("hex").value;
 var width = document.getElementById("size").value;
     ctx.beginPath();
